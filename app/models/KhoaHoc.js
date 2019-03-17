@@ -1,3 +1,3 @@
 function KhoaHoc(){
-    
+    this.mangNguoiDung = [];
 }
